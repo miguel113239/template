@@ -43,5 +43,5 @@ function draw() {
   // teken appel
   noStroke();         // geen lijntje om de vorm heen
   fill(255, 0, 0)     // vulkleur wordt rood
-  rect(appelX, appelY, appleBreedte, appleBreedte);
+  rect(appelX, appelY, appelBreedte, appelBreedte);
 }
